@@ -1,0 +1,7 @@
+{
+  "menuItems": [
+    { "label": "About", "expectedUrl": "/about" },
+    { "label": "Documentation", "expectedUrl": "/documentation" },
+    { "label": "Terms", "expectedUrl": "/terms" }
+  ]
+}
