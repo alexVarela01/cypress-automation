@@ -1,0 +1,12 @@
+{
+  "name": "Testing",
+  "surname": "Account",
+  "email": "testingaccount@eshkay.dev",
+  "phone_number": "123123123", 
+  "street_address": "Some Random street", 
+  "postal_code": "1231-123", 
+  "city": "Lisbon", 
+  "country": "PT", 
+  "password": "thisIsMyPassword!1",
+  "confirmPassword": "thisIsMyPassword!1"
+}
